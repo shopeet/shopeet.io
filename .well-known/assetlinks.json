@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shoppeet.app",
+      "sha256_cert_fingerprints":
+      ["19:D0:F1:74:5E:67:5A:7A:25:A4:0F:A1:52:58:CF:FE:E6:EE:B4:CB:A2:18:A4:CD:19:FE:29:90:9C:E7:A9:3C"]
+    }
+  }]
+  
